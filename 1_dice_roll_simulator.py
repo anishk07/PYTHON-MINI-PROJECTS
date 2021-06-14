@@ -1,3 +1,8 @@
+# @author : ANISHK YADAV
+
+# DICE ROLL SIMULATION USING PYTHON RANDOM MODULE
+
+
 import random
 import sys
 
